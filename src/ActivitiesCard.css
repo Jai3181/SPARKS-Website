@@ -1,0 +1,75 @@
+.activitiescard{
+    background-color: rgba(255, 255, 255, 0.767);
+    z-index: 1;
+    display:flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin: 10px; 
+    border-radius: 20px;
+}
+
+.activitiescard:hover{
+    box-shadow: 5px 5px 5px black;
+}
+
+.bannerImage{
+    width: 400px;
+}
+
+.circular{
+    height: 80px;
+    width: 80px;
+    border-radius: 40px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.mainHeading{
+    text-align: center;
+    /* background-color: rgba(255, 255, 255, 0.767); */
+}
+
+.subHeading{
+    text-align: center;
+    /* background-color: rgba(255, 255, 255, 0.767); */
+}
+
+.details{
+    /* background-color: rgba(255, 255, 255, 0.767); */
+}
+
+.duration{
+    float: left;
+    background-color: rgba(255, 255, 255, 0.767);
+    border: 2px solid grey;
+    padding: 3px;
+    margin: 2px;
+    border-radius: 15px;
+    width: 124px;
+    text-align: center;
+}
+
+.members{
+    float: right;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid grey;
+    padding: 3px;
+    margin: 2px;
+    border-radius: 15px;
+    width: 124px;
+    text-align: center;
+}
+
+.viewDetails{
+    width: 95%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    align-items: center;
+    border-radius: 15px;
+    padding: 5px;
+    background-color: greenyellow;
+}
+
+.infoIcon{
+    background-color: greenyellow;
+}

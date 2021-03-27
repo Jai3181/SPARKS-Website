@@ -1,0 +1,36 @@
+.membercard{
+    margin: 15px;
+    border: 1px solid black;
+    padding: 5px;
+    box-shadow: 3px 3px 10px white;
+    border-radius: 50px;
+    background-color:  rgba(255, 255, 255, 0.767);
+    /* background-image: linear-gradient(315deg, #537895 0%, #09203f 74%); */
+    /* background-image:linear-gradient(315deg, #bdd4e7 0%, #8693ab 74%); */
+    /* background-image: linear-gradient(315deg, #a40606 0%, #d98324 74%); */
+}
+
+.membercard:hover{
+    box-shadow: 3px 3px 10px orangered;
+}
+
+.member_position{
+    color: white;
+    font-weight: 800;
+    text-decoration: underline;
+}
+
+.member_position_university{
+    color: white;
+}
+
+.member_name{
+    color: white;
+    font-weight: 900;
+}
+
+.member_social{
+    border-radius: 190px;
+    border: 0px;
+    padding: 0px;
+}

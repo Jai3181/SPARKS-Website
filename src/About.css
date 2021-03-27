@@ -1,0 +1,71 @@
+.about{
+    background-color: #262626;
+}
+
+.aboutUs__heading{
+    color: #ffc033;
+    text-decoration: underline;
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+    /* text-transform: uppercase; */
+}
+
+.aboutUs__content{
+    color: white;
+    text-align: left;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.vision__heading{
+    color: #ffc033;
+    text-decoration: underline;
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+    /* text-transform: uppercase; */
+}
+
+.vision__content{
+    color: white;
+    text-align: left;
+}
+
+.activity__heading{
+    color: #ffc033;
+    text-decoration: underline;
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+    /* text-transform: uppercase; */
+}
+
+.activity__content{
+    color: white;
+    text-align: left;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.about__contentListitem{
+
+}
+
+.aim__span{
+    color: white;
+    font-size: 17px;
+    font-weight: 900;
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.about__content_list >dd{
+
+}
+
+.about__content_list > dt{
+    color: #ffbe33c7;
+    text-decoration: underline;
+}

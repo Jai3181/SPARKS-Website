@@ -1,0 +1,18 @@
+.activities{
+    width: 108%;
+    background-color: #262626;
+}
+
+.events_banner{
+    height: 250px;
+    width: 100%;
+}
+
+.eventBox{
+    width: 98vw;
+    margin: 5px;
+    border: 6px double black;
+    /* border-top: 2px solid grey;
+    border-left: 2px solid grey;
+    border-right: 2px solid grey; */
+}

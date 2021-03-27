@@ -1,0 +1,42 @@
+.coreteam{
+    background-color: #262626;
+    /* width: 100vw; */
+    padding: 3px;
+}
+
+.ourMentorsHeading{
+    align-items: center;
+    color: #ffc033;
+    text-decoration: underline;
+}
+
+.ourCoreHeading{
+    color: #ffc033;
+    text-decoration: underline;
+}
+
+.ourTrainersHeading{
+    color: #ffc033;
+    text-decoration: underline;
+}
+
+.mentorcards> div{
+    background-image:linear-gradient(315deg, #bdd4e7 0%, #8693ab 74%);
+}
+
+.mentorcards> div:hover{
+    box-shadow: 3px 3px 10px skyblue;
+}
+
+.corecards> div{
+    background-image: linear-gradient(315deg, #537895 0%, #09203f 74%);
+}
+
+.corecards> div:hover{
+    box-shadow: 3px 3px 10px rgb(75, 75, 173)
+}
+
+.trainercards> div{
+    background-image: linear-gradient(315deg, #a40606 0%, #d98324 74%);
+    color: black;
+}

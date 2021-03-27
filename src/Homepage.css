@@ -1,0 +1,42 @@
+.homepage{
+   background-color: #262626;
+}
+
+.carousel .slide img {
+    max-height: 300px;  /* change this to whatever you want */
+    object-fit: contain;
+    background-color: #262626;
+}
+
+.homepage__aboutUs_heading{
+    color: #ffc033;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.homepage__aboutUs_para{
+    color: white;
+    text-align: left;
+}
+
+.homepage__trainings_heading{
+    color: #ffc033;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.homepage__trainings_para{
+    color: white;
+    text-align: left;
+}
+
+.homepage__feedback_heading{
+    color: #ffc033;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.homepage__feedback_para{
+    color: white;
+    text-align: left;
+}

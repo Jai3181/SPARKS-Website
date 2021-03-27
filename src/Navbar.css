@@ -1,0 +1,23 @@
+.navbar{
+    background-color: black;
+    position: sticky;
+    top: 0px;
+    z-index: 100;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.navbar__option:hover{
+    box-shadow: 0 8px 6px -6px white;
+}
+
+.navbar__option{
+    text-decoration: none;
+    color: white;
+}
+
+/* #navbar__logoimage{
+    margin-right: 5px;
+} */
